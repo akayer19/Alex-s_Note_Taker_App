@@ -49,9 +49,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 None at this time. 
 
 ## Screenshot
-![Screenshot](./utils/screenshot_1.png)
-![Screenshot](./utils/screenshot_2.png)
-![Screenshot](./utils/screenshot_3.png)
+![Screenshot]([./utils/screenshot_1.png](https://github.com/akayer19/Alex-s_Note_Taker_App/assets/54523191/de522d40-aaa1-4058-ba94-f51e1154fd3f))
+![Screenshot]([./utils/screenshot_2.png](https://github.com/akayer19/Alex-s_Note_Taker_App/assets/54523191/d3e8270a-c668-42f3-bf9c-25da51beb138))
+![Screenshot]([./utils/screenshot_3.png](https://github.com/akayer19/Alex-s_Note_Taker_App/assets/54523191/75366fee-be48-4e5e-950a-6f8e122d787d))
 
 ## Questions
 - If you have any questions, you can reach me on GitHub: <a href="https://github.com/akayer19" target="_blank">GitHub Profile</a>
